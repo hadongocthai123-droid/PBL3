@@ -26,7 +26,7 @@ This is a university group project for **PBL3**. It is a desktop application tha
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sonphan1408/PBL3.git
+   git clone https://github.com/hadongocthai123-droid/PBL3.git
    ```
 2. **Setup Database:**
    - Open SQL Server Management Studio (SSMS).
